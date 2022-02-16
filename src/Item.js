@@ -1,10 +1,10 @@
-const item = {
-  brand: 'Tiger of Sweden',
-  title: 'Leonard coat',
-  description: 'Minimalistic coat in cotton-blend',
-  descriptionFull: 'Men\'s minimalistic overcoat in cotton-blend. Features a stand-up collar, concealed front closure and single back vent. Slim fit with clean, straight shape. Above-knee length.',
-  price: 399,
-  currency: '£'
+export default class Item {
+  constructor(obj) {
+    this.brand = obj.brand;
+    this.title = obj.title;
+    this.description = obj.description;
+    this.descriptionFull = obj.descriptionFull;
+    this.price = obj.price;
+    this.currency = obj.currency;
+  }
 }
-
-export default item;
