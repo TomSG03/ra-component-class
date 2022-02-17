@@ -4,6 +4,7 @@
 
 - [x] [Страница интернет-магазина (функциональный компонент)](https://github.com/TomSG03/ra-component-func)
 - [x] Страница интернет-магазина (class-based компонент)
+- [x] [Календарь](https://github.com/TomSG03/ra-component-calendar)
 
 ---
 [Спискок задач](https://github.com/TomSG03/ra-homeworks-list)
