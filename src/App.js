@@ -1,5 +1,6 @@
 import ShopItemFunc from './ShopItemFunc';
 import Item from './Item';
+import './App.css';
 
 
 const item = new Item({
